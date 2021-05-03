@@ -1,0 +1,10 @@
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\Лб5.csprojAssemblyReference.cache
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\Лб5.csproj.GenerateResource.cache
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\Лб5.csproj.CoreCompileInputs.cache
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Yana\source\repos\WindowsFormsApp1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
